@@ -8,5 +8,8 @@ namespace HomeTaskGit
 {
     class HelperClass
     {
+        public void GetHelp()
+        {
+        }
     }
 }
